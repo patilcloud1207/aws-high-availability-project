@@ -31,8 +31,24 @@ User → Application Load Balancer → EC2 Instances
 ---
 
 ## 📸 Screenshots
-(To be added later)
 
+### EC2 Instances
+![EC2](Screenshot 2026-05-18 095217.png)
+
+### Web Server Output 1
+![Web1](Screenshot 2026-05-18 095229.png)
+
+### Web Server Output 2
+![Web2](Screenshot 2026-05-18 095240.png)
+
+### Target Group Health
+![TG](Screenshot 2026-05-18 095310.png)
+
+### Load Balancer DNS
+![ALB](Screenshot 2026-05-18 095336.png)
+
+### Final Output
+![Final](Screenshot 2026-05-18 095402.png)
 ---
 
 ## 👨‍💻 Author
